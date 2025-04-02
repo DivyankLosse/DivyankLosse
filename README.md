@@ -1,5 +1,19 @@
-# 💫 About Me:
-🌟 DivyankLoose 🌟<br>Hey, I’m Divyank! 🤖 An artificial intelligence engineer who’s all about crafting clever, world-changing tech. I live for coding, AI adventures, and making machines think smarter.<br><br>✨ Fun Fact: I once trained a neural network to predict my coffee intake—spoiler: it’s a lot! ☕<br><br>❓ Ask Me About: Neural nets, AI ethics, or why I think robots deserve hugs.<br><br>📚 I’m Currently Learning: Advanced reinforcement learning and how to not overfit my models (or my life).<br><br>🆘 I’m Looking for Help With: Optimizing large-scale AI pipelines—got tips? Hit me up!<br><br>Let’s team up and build something epic! 🚀
+# 🚀 About Me  
+
+Hey, I’m **Divyank!** I’m an **AI Engineer** passionate about building smart systems and pushing the limits of machine learning. Whether it’s training neural networks, optimizing large-scale AI pipelines, or tackling complex problems—I’m always up for the challenge.  
+
+## 🔍 What I Do  
+- Develop AI-driven solutions  
+- Explore **reinforcement learning** and advanced ML techniques  
+- Optimize models for efficiency and scalability  
+
+## 📌 Currently Learning  
+- **Advanced Reinforcement Learning**  
+- **AI Pipeline Optimization**  
+
+## 💡 Let’s Connect!  
+Got insights on large-scale AI systems? Have an interesting project idea? Let’s chat and build something amazing together!  
+
 
 
 ## 🌐 Socials:
