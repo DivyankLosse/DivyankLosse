@@ -1,3 +1,6 @@
+
+Hola, I’m Divyank!
+I’m an AI / Machine Learning enthusiast focused on building data-driven solutions using machine learning and deep learning.
 🔭 I’m currently working on<br>AI and machine learning projects focused on real-world datasets, model training, and end-to-end AI workflows.<br><br>👯 I’m looking to collaborate on<br>Machine learning projects, data analysis work, and beginner-to-intermediate AI applications where learning and impact go together.<br><br>🤝 I’m looking for help with<br>Improving model performance, understanding advanced ML/DL concepts, and best practices for building production-ready AI projects.<br><br>🌱 I’m currently learning<br>Deep learning, model optimization techniques, and practical approaches to applied AI.<br><br>💬 Ask me about<br>Data analysis, machine learning basics, Python for AI, and getting started with AI projects.<br><br>⚡ Fun fact<br>I enjoy turning messy datasets into clean insights almost as much as making models behave the way they’re supposed to.
 
 
