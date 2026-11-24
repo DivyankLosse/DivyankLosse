@@ -1,27 +1,99 @@
+<div align="center">
 
-Hola, I’m Divyank!
-I’m an AI / Machine Learning enthusiast focused on building data-driven solutions using machine learning and deep learning.
-🔭 I’m currently working on<br>AI and machine learning projects focused on real-world datasets, model training, and end-to-end AI workflows.<br><br>👯 I’m looking to collaborate on<br>Machine learning projects, data analysis work, and beginner-to-intermediate AI applications where learning and impact go together.<br><br>🤝 I’m looking for help with<br>Improving model performance, understanding advanced ML/DL concepts, and best practices for building production-ready AI projects.<br><br>🌱 I’m currently learning<br>Deep learning, model optimization techniques, and practical approaches to applied AI.<br><br>💬 Ask me about<br>Data analysis, machine learning basics, Python for AI, and getting started with AI projects.<br><br>⚡ Fun fact<br>I enjoy turning messy datasets into clean insights almost as much as making models behave the way they’re supposed to.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA8D6,50:A8C6E7,100:FFE08A&height=220&section=header&text=Divyank%20Khewale&fontSize=58&fontColor=0d1117&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
+<a href="https://github.com/DivyankLosse">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFE08A&center=true&vCenter=true&width=620&lines=I+turn+phone+photos+into+medical+insights+%F0%9F%A6%B7;I+teach+cameras+to+read+posture+%F0%9F%A7%98;I+ship+AI+products%2C+not+just+notebooks+%F0%9F%9A%80;Python+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+React" alt="Typing intro" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyank-khewale-9461b9309) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chinmaykhewale2005@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DivyankLosse&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DivyankLosse&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyankLosse&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://linkedin.com/in/divyank-khewale-9461b9309"><img src="https://img.shields.io/badge/LinkedIn-Connect-7FA8D6?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:chinmaykhewale2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-FFE08A?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a> <img src="https://komarev.com/ghpvc/?username=DivyankLosse&label=Profile%20views&color=A8C6E7&style=for-the-badge" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DivyankLosse&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DivyankLosse&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DivyankLosse&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="34" /> About me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" />
+
+- 🧠 **AI engineer** who builds end to end: data → model → API → UI → deploy
+- 🦷 Working on **health-tech vision**: dental screening and posture analysis from ordinary phone photos
+- 🧘 Built on-device apps that coach posture and stretching, **privacy first**
+- 🌾 Shipped AI for farming, sign language, short-form video and startups
+- 🔬 Learning: model optimisation, ONNX deployment, multi-agent AI systems
+- ⚡ Fun fact: I enjoy turning messy datasets into clean insights almost as much as making models behave
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+**AI & data**<br/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,postgres,mongodb,mysql,sqlite,firebase&theme=dark" />
+
+**Frontend & desktop**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,electron&theme=dark" />
+
+**Ship it**<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured projects
+
+<div align="center">
+
+<a href="https://github.com/DivyankLosse/posture-guardian"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankLosse&repo=posture-guardian&bg_color=0d1117&title_color=FFE08A&icon_color=7FA8D6&text_color=A8C6E7&hide_border=true" /></a>
+<a href="https://github.com/DivyankLosse/AgriLO"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankLosse&repo=AgriLO&bg_color=0d1117&title_color=FFE08A&icon_color=7FA8D6&text_color=A8C6E7&hide_border=true" /></a>
+<a href="https://github.com/DivyankLosse/Sign-Bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankLosse&repo=Sign-Bridge&bg_color=0d1117&title_color=FFE08A&icon_color=7FA8D6&text_color=A8C6E7&hide_border=true" /></a>
+<a href="https://github.com/DivyankLosse/Taizo-VideoAI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankLosse&repo=Taizo-VideoAI&bg_color=0d1117&title_color=FFE08A&icon_color=7FA8D6&text_color=A8C6E7&hide_border=true" /></a>
+<a href="https://github.com/DivyankLosse/EcoGrid"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankLosse&repo=EcoGrid&bg_color=0d1117&title_color=FFE08A&icon_color=7FA8D6&text_color=A8C6E7&hide_border=true" /></a>
+<a href="https://github.com/DivyankLosse/SSS-Startup-Survival-Simulator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DivyankLosse&repo=SSS-Startup-Survival-Simulator&bg_color=0d1117&title_color=FFE08A&icon_color=7FA8D6&text_color=A8C6E7&hide_border=true" /></a>
+
+</div>
+
+### 🔒 Currently building (private)
+
+| | Project | What it does |
+|:-:|---|---|
+| 🦷 | **Dental screening AI** | Phone photos → AI checks for decay and gum inflammation → dentist-reviewed report |
+| 🧍 | **Posture Report Hub** | Camera-based posture analysis with clinician reports |
+| 🎓 | **Praman** | Certificate registry with QR verification for institutes |
+| 🏡 | **Vastu Gurus** | Astrology and Vastu platform live at [vastugurus.in](https://vastugurus.in) |
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DivyankLosse&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFE08A&icon_color=7FA8D6&text_color=A8C6E7&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyankLosse&layout=compact&bg_color=0d1117&title_color=FFE08A&text_color=A8C6E7&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=DivyankLosse&background=0D1117&ring=FFE08A&fire=FFE08A&currStreakLabel=FFE08A&sideLabels=A8C6E7&currStreakNum=FFF7D6&sideNums=FFF7D6&dates=7FA8D6&stroke=1F2F45&hide_border=true" />
+
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyankLosse/DivyankLosse/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DivyankLosse/DivyankLosse/output/snake.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE08A,50:A8C6E7,100:7FA8D6&height=120&section=footer" width="100%" />
+
+</div>
