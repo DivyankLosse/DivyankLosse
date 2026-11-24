@@ -3,20 +3,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA8D6,50:A8C6E7,100:FFE08A&height=220&section=header&text=Divyank%20Khewale&fontSize=58&fontColor=0d1117&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/DivyankLosse">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFE08A&center=true&vCenter=true&width=620&lines=I+turn+phone+photos+into+medical+insights+%F0%9F%A6%B7;I+teach+cameras+to+read+posture+%F0%9F%A7%98;I+ship+AI+products%2C+not+just+notebooks+%F0%9F%9A%80;Python+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+React" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFE08A&center=true&vCenter=true&width=620&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E2%9C%A8+I%27m+Divyank;I+turn+phone+photos+into+medical+insights+%F0%9F%A6%B7;I+teach+cameras+to+read+posture+%F0%9F%A7%98;I+ship+AI+products%2C+not+just+notebooks+%F0%9F%9A%80;Python+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+React" alt="Typing intro" />
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/divyank-khewale-9461b9309"><img src="https://img.shields.io/badge/LinkedIn-Connect-7FA8D6?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:chinmaykhewale2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-FFE08A?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a> <img src="https://komarev.com/ghpvc/?username=DivyankLosse&label=Profile%20views&color=A8C6E7&style=for-the-badge" />
+<a href="https://linkedin.com/in/divyank-khewale-9461b9309"><img src="https://img.shields.io/badge/LinkedIn-Connect-7FA8D6?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:chinmaykhewale2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-FFE08A?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a> 
 
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="34" /> About me
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="34" /> About me ・ 自己紹介
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" />
+<img align="right" width="420" src="assets/anime-desk.jpg" alt="Anime-style me coding by a sunny window" />
 
 - 🧠 **AI engineer** who builds end to end: data → model → API → UI → deploy
 - 🦷 Working on **health-tech vision**: dental screening and posture analysis from ordinary phone photos
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Tech stack ・ 技術
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured projects ・ 作品
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub stats ・ 統計
 
 <div align="center">
 
@@ -82,6 +82,26 @@
 
 <img src="https://streak-stats.demolab.com/?user=DivyankLosse&background=0D1117&ring=FFE08A&fire=FFE08A&currStreakLabel=FFE08A&sideLabels=A8C6E7&currStreakNum=FFF7D6&sideNums=FFF7D6&dates=7FA8D6&stroke=1F2F45&hide_border=true" />
 
+
+</div>
+
+---
+
+## 💌 Let's connect ・ よろしく
+
+<img align="left" width="190" src="assets/chibi-wave.jpg" alt="Chibi me waving hello" />
+
+**Yoroshiku!** I'm always up for building something ambitious with AI, from health-tech vision to agentic products.
+
+- 🤝 Open to internships, freelance AI builds and hackathon teams
+- 💬 Ask me about computer vision, FastAPI backends or shipping ML to production
+- 📫 [LinkedIn](https://linkedin.com/in/divyank-khewale-9461b9309) · [Email](mailto:chinmaykhewale2005@gmail.com)
+
+<br clear="left"/>
+
+<div align="center">
+
+<img src="https://count.getloli.com/@DivyankLosse?name=DivyankLosse&theme=moebooru&padding=6&darkmode=auto" alt="Profile views" />
 
 </div>
 
